@@ -1,0 +1,40 @@
+body {
+ background-color: rgba(230, 193, 151, 0.308);
+ font-family: sans-serif;
+}
+#par2{
+ font-size: large;
+}
+.vermelho {
+    color:rgb(43, 178, 219);
+}
+.negrito{
+    font-weight:bold;
+}
+span.vermelho{
+background-color: black;
+}
+.negrito p {
+font-style: italic;
+}
+/* Esse é um comentário*/
+
+h3 {
+    color:rgb(199, 96, 56)
+}
+
+h1 { 
+
+    color:rgb(163, 89, 4); 
+
+} 
+
+h2 {
+    color:rgb(233, 130, 99)
+}
+p { 
+    font-family: sans-serif; 
+
+}    
+
+
